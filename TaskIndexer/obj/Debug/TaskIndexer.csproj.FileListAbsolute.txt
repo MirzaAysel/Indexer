@@ -1,0 +1,8 @@
+C:\Users\Aysel\source\repos\TaskIndexer\bin\Debug\TaskIndexer.exe.config
+C:\Users\Aysel\source\repos\TaskIndexer\bin\Debug\TaskIndexer.exe
+C:\Users\Aysel\source\repos\TaskIndexer\bin\Debug\TaskIndexer.pdb
+C:\Users\Aysel\source\repos\TaskIndexer\obj\Debug\TaskIndexer.csproj.AssemblyReference.cache
+C:\Users\Aysel\source\repos\TaskIndexer\obj\Debug\TaskIndexer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aysel\source\repos\TaskIndexer\obj\Debug\TaskIndexer.csproj.CoreCompileInputs.cache
+C:\Users\Aysel\source\repos\TaskIndexer\obj\Debug\TaskIndexer.exe
+C:\Users\Aysel\source\repos\TaskIndexer\obj\Debug\TaskIndexer.pdb
